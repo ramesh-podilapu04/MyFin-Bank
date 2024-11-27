@@ -1,4 +1,0 @@
-Hello World!!!!
-take the input from user
-add the numbers with 
-the given data
